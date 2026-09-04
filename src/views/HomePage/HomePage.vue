@@ -1,9 +1,3 @@
-<script>
-export default {
-  name: 'HomePage'
-}
-</script>
-
 <template>
   <section>
     <div>
